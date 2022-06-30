@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -V $CFILE -o C.o
+gcc -v 1-main.c > C.o
