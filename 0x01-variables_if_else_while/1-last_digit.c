@@ -1,9 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include<stdio.h>
-/* more headers goes there */
+/**
+ * main - main function goes here
+ *
+ * Description - 
+ *
+ * betty style doc for function main goes there 
+ **/
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
