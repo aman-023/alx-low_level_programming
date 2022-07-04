@@ -1,14 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
- /**
+/**
  * main- entry point
  *
- * Description :'Positive or Negative'
- *
- * Return 0 : after printing the function
- *
- **/
+ * Description : Check if a random number is positive or negative
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
